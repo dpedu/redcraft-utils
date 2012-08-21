@@ -10,7 +10,6 @@ import random
 import urllib2
 import re
 import yaml
-import traceback
 
 # Main class
 class MinecraftServerRunner(threading.Thread):
