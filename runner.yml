@@ -1,0 +1,13 @@
+javapath: /home/minecraft/jre1.6.0_32/bin/java
+serverdir: /home/minecraft/server/
+memory: 1024M
+jar: craftbukkit-dev.jar
+restart_interval: 7200
+save_interval: 900
+message_interval: 315
+config_update_interval: 30
+messages:
+    - ['Remember to lock your chests and furnaces!', 'Type /cprivate or /lwc for more info.']
+    - ['See how you compare in the high scores!', 'View them at http://mydomain.com/highscores']
+    - ['Need help from an admin? Post on the forum or', "Type '/mail send yourname <your message here>'!"]
+    - ['New to the server and starving?', 'Type /kit newbie for a free lunch!']
